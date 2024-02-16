@@ -1,0 +1,1 @@
+insert into todos (id, username, task, target_date, done) values (1001, 'nayakrranjan', 'Task 110', CURRENT_DATE, false);
